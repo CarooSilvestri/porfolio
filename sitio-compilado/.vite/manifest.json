@@ -1,0 +1,103 @@
+{
+  "../../portfolio/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "_next/static/chunks/app-route-prefetch-policy-CL3289dY.js",
+    "name": "app-route-prefetch-policy",
+    "src": "../../portfolio/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "../../portfolio/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-DZJeuXsM.js",
+    "name": "layout-segment-context",
+    "src": "../../portfolio/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "../../portfolio/node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "_next/static/chunks/streamed-icons-DNogeH_Z.js",
+    "name": "streamed-icons",
+    "src": "../../portfolio/node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_framework-D_rUT4EX.js": {
+    "file": "_next/static/chunks/framework-D_rUT4EX.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "app/CreativeLab.tsx": {
+    "file": "_next/static/chunks/CreativeLab-Bb0f3Kqc.js",
+    "name": "CreativeLab",
+    "src": "app/CreativeLab.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/DiagonalScene.tsx": {
+    "file": "_next/static/chunks/DiagonalScene-CaizS4Bv.js",
+    "name": "DiagonalScene",
+    "src": "app/DiagonalScene.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/MotionLayer.tsx": {
+    "file": "_next/static/chunks/MotionLayer-6a_CFdzV.js",
+    "name": "MotionLayer",
+    "src": "app/MotionLayer.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/ProjectPreview.tsx": {
+    "file": "_next/static/chunks/ProjectPreview-RLhq18mQ.js",
+    "name": "ProjectPreview",
+    "src": "app/ProjectPreview.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-DjJ5Tv24.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ],
+    "dynamicImports": [
+      "../../portfolio/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "app/ProjectPreview.tsx",
+      "../../portfolio/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "virtual:vinext-app-browser-entry",
+      "../../portfolio/node_modules/vinext/dist/shims/streamed-icons.js",
+      "app/CreativeLab.tsx",
+      "app/MotionLayer.tsx",
+      "app/DiagonalScene.tsx"
+    ]
+  }
+}

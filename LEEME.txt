@@ -1,0 +1,9 @@
+BACKUP — CARO SILVESTRI PORTFOLIO
+
+1. caro-silvestri-portfolio-source.tar.gz
+   Proyecto editable completo, guardado desde el último commit local.
+
+2. caro-silvestri-portfolio-static.tar.gz
+   Versión compilada del sitio que se había publicado.
+
+Creado: 9 de septiembre de 2026.
